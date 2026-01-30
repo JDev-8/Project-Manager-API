@@ -1,5 +1,7 @@
 # 🚀 Project Manager API (SaaS Edition)
 
+![CI Status](https://github.com/JDev-8/Project-Manager-API.git/actions/workflows/ci.yml/badge.svg)
+
 Una API RESTful robusta y escalable para la gestión de proyectos colaborativos estilo Kanban (similar a Trello o Jira), construida con **NestJS** y **TypeScript**.
 
 ## ✨ Características Principales
